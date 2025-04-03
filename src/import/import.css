@@ -1,2 +1,4 @@
 @import url(./estilo/style.css);
 @import url(./estilo/styleado.css);
+@import url(/src/variaveis/var.css);
+@import url(/src/import/importfonts.css);
