@@ -28,7 +28,7 @@ body{
 
 .cabecalho-menu{
     display: flex;
-    gap: 40px;
+    gap: 50px;
 }
 .cabecalho-menu-item{
     font-family: "Changa", sans-serif;
