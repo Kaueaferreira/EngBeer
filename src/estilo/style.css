@@ -1,4 +1,6 @@
 @import url(/src/import/import.css);
+@import url(/src/variaveis/var.css);
+@import url(/src/import/importfonts.css);
 *{
     margin: 0;
     padding: 0;
