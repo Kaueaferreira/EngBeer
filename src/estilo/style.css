@@ -118,8 +118,8 @@ body{
 
 .rodape{
     padding-top: 10px;
-    border-top: 0.6px solid var(--color-preto);
-    background-color: #fbeb8b;
+    border-top: 0.6px solid var(--color-primaria-1);
+    background: linear-gradient(80deg,var(--color-primaria-5) 30%, var(--color-primaria-6) 80%) ;
 }
 
 .rodape-imagem{
